@@ -1,4 +1,9 @@
-
+/*
+ * Program    : Sum of First 50 Natural Numbers
+ * Name       : AHMED SHAHZAD
+ * Reg No     : L1S26BSCS0029
+ * Assignment : 01 - Getting Started with GitHub
+ */
 #include <iostream>
 using namespace std;
 
